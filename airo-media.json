@@ -1,0 +1,352 @@
+{
+  "pages/home/hero": {
+    "requestedSize": {
+      "width": 1920,
+      "height": 1080,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://isteam.dev-wsimg.com/getty/2228339409",
+    "searchQuery": "yoga athlete dynamic pose studio action",
+    "alternatives": [
+      "https://isteam.dev-wsimg.com/getty/2282304649",
+      "https://isteam.dev-wsimg.com/getty/2256318385",
+      "https://isteam.dev-wsimg.com/getty/2277003243",
+      "https://isteam.dev-wsimg.com/getty/2282304660"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-09T08:45:22.328Z",
+    "lastUpdated": "2026-09-09T08:45:22.328Z",
+    "gettyId": "2228339409",
+    "alternativeGettyIds": [
+      "2282304649",
+      "2256318385",
+      "2277003243",
+      "2282304660"
+    ]
+  },
+  "pages/home/instructor-1": {
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://isteam.dev-wsimg.com/getty/1317389798",
+    "searchQuery": "yoga instructor female portrait professional studio",
+    "alternatives": [
+      "https://isteam.dev-wsimg.com/getty/1452915209",
+      "https://isteam.dev-wsimg.com/getty/637360322",
+      "https://isteam.dev-wsimg.com/getty/1014216734"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-09T08:45:23.988Z",
+    "lastUpdated": "2026-09-09T08:45:23.988Z",
+    "gettyId": "1317389798",
+    "alternativeGettyIds": [
+      "1452915209",
+      "637360322",
+      "1014216734"
+    ]
+  },
+  "pages/home/class-power-yoga": {
+    "requestedSize": {
+      "width": 600,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://isteam.dev-wsimg.com/getty/2190228588",
+    "searchQuery": "power yoga strength pose athletic",
+    "alternatives": [
+      "https://isteam.dev-wsimg.com/getty/2170148103",
+      "https://isteam.dev-wsimg.com/getty/2282304693",
+      "https://isteam.dev-wsimg.com/getty/2194056376"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-09T08:45:25.563Z",
+    "lastUpdated": "2026-09-09T08:45:25.563Z",
+    "gettyId": "2190228588",
+    "alternativeGettyIds": [
+      "2170148103",
+      "2282304693",
+      "2194056376"
+    ]
+  },
+  "pages/home/class-restorative": {
+    "requestedSize": {
+      "width": 600,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://isteam.dev-wsimg.com/getty/2267932890",
+    "searchQuery": "restorative yoga calm relaxation studio",
+    "alternatives": [
+      "https://isteam.dev-wsimg.com/getty/1203078699",
+      "https://isteam.dev-wsimg.com/getty/2259510554",
+      "https://isteam.dev-wsimg.com/getty/2244668487"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-09T08:45:27.925Z",
+    "lastUpdated": "2026-09-09T08:45:27.925Z",
+    "gettyId": "2267932890",
+    "alternativeGettyIds": [
+      "1203078699",
+      "2259510554",
+      "2244668487"
+    ]
+  },
+  "pages/home/instructor-2": {
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://isteam.dev-wsimg.com/getty/1582812098",
+    "searchQuery": "yoga instructor male portrait athletic confident",
+    "alternatives": [
+      "https://isteam.dev-wsimg.com/getty/1399366150",
+      "https://isteam.dev-wsimg.com/getty/1306973426",
+      "https://isteam.dev-wsimg.com/getty/2155266274"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-09T08:45:29.666Z",
+    "lastUpdated": "2026-09-09T08:45:29.666Z",
+    "gettyId": "1582812098",
+    "alternativeGettyIds": [
+      "1399366150",
+      "1306973426",
+      "2155266274"
+    ]
+  },
+  "pages/home/class-hot-yoga": {
+    "requestedSize": {
+      "width": 600,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://isteam.dev-wsimg.com/getty/2288343200",
+    "searchQuery": "hot yoga intense workout sweat fitness",
+    "alternatives": [
+      "https://isteam.dev-wsimg.com/getty/2281162506",
+      "https://isteam.dev-wsimg.com/getty/1472356815",
+      "https://isteam.dev-wsimg.com/getty/543815466"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-09T08:45:32.746Z",
+    "lastUpdated": "2026-09-09T08:45:32.746Z",
+    "gettyId": "2288343200",
+    "alternativeGettyIds": [
+      "2281162506",
+      "1472356815",
+      "543815466"
+    ]
+  },
+  "pages/home/why-satya": {
+    "requestedSize": {
+      "width": 900,
+      "height": 700,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://isteam.dev-wsimg.com/getty/1796458169",
+    "searchQuery": "yoga studio interior modern clean athletic space",
+    "alternatives": [
+      "https://isteam.dev-wsimg.com/getty/1592203399",
+      "https://isteam.dev-wsimg.com/getty/1192145125",
+      "https://isteam.dev-wsimg.com/getty/1497977384"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-09T08:45:34.301Z",
+    "lastUpdated": "2026-09-09T08:45:34.301Z",
+    "gettyId": "1796458169",
+    "alternativeGettyIds": [
+      "1592203399",
+      "1192145125",
+      "1497977384"
+    ]
+  },
+  "pages/home/class-vinyasa": {
+    "requestedSize": {
+      "width": 600,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://isteam.dev-wsimg.com/getty/2244668529",
+    "searchQuery": "vinyasa yoga flow movement sequence",
+    "alternatives": [
+      "https://isteam.dev-wsimg.com/getty/2179438443",
+      "https://isteam.dev-wsimg.com/getty/2171267564",
+      "https://isteam.dev-wsimg.com/getty/2247369040"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-09T08:45:35.267Z",
+    "lastUpdated": "2026-09-09T08:45:35.267Z",
+    "gettyId": "2244668529",
+    "alternativeGettyIds": [
+      "2179438443",
+      "2171267564",
+      "2247369040"
+    ]
+  },
+  "pages/home/instructor-3": {
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://isteam.dev-wsimg.com/getty/1485325300",
+    "searchQuery": "yoga teacher female meditation mindful calm",
+    "alternatives": [
+      "https://isteam.dev-wsimg.com/getty/1473648524",
+      "https://isteam.dev-wsimg.com/getty/1701496860",
+      "https://isteam.dev-wsimg.com/getty/1970731350"
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-09T08:45:36.697Z",
+    "lastUpdated": "2026-09-09T08:45:36.697Z",
+    "gettyId": "1485325300",
+    "alternativeGettyIds": [
+      "1473648524",
+      "1701496860",
+      "1970731350"
+    ]
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-transparent-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png",
+    "searchQuery": "horizontal",
+    "alternatives": [
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/e5a212de-d989-475c-b304-1ad27b5567e5/transparent-53b66d98-9fa8-432f-a984-9d6a057792c7/logo-logo.png"
+    ],
+    "logoSourceMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-transparent-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png": {
+        "sessionId": "668863c8-1609-4210-8685-7add0c1d7cce",
+        "logoId": "c2f643c9-2aba-4072-a096-7107880a835d",
+        "groupId": "c7b47a00-9771-4daf-9ac9-594ea92c398e"
+      },
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/e5a212de-d989-475c-b304-1ad27b5567e5/transparent-53b66d98-9fa8-432f-a984-9d6a057792c7/logo-logo.png": {
+        "sessionId": "e5a212de-d989-475c-b304-1ad27b5567e5",
+        "logoId": "53b66d98-9fa8-432f-a984-9d6a057792c7",
+        "groupId": "c7b47a00-9771-4daf-9ac9-594ea92c398e"
+      }
+    },
+    "logoGroupId": "c7b47a00-9771-4daf-9ac9-594ea92c398e",
+    "solidUrlMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-transparent-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-original-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png",
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/e5a212de-d989-475c-b304-1ad27b5567e5/transparent-53b66d98-9fa8-432f-a984-9d6a057792c7/logo-logo.png": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/e5a212de-d989-475c-b304-1ad27b5567e5/original-53b66d98-9fa8-432f-a984-9d6a057792c7/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-transparent-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-transparent-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "productMockupsMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-transparent-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-mockup-mug-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-mockup-card-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-mockup-tshirt-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-mockup-box-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-mockup-mug-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-mockup-card-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-mockup-tshirt-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-mockup-box-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png"
+      }
+    ],
+    "userModified": false,
+    "createdAt": "2026-09-09T08:46:40.650Z",
+    "lastUpdated": "2026-09-09T08:47:26.280Z",
+    "surfaceMode": "light",
+    "generatedForSurfaceColor": "#ffffff",
+    "darkSurfaceUrl": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/668863c8-1609-4210-8685-7add0c1d7cce/horizontal-transparent-c2f643c9-2aba-4072-a096-7107880a835d/logo-logo.png",
+    "lightSurfaceUrl": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/e5a212de-d989-475c-b304-1ad27b5567e5/transparent-53b66d98-9fa8-432f-a984-9d6a057792c7/logo-logo.png"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/6ac4cc56-b821-4dea-bf4c-87605bb180d0/favicon-transparent-398e2640-ebf2-430f-bcfd-fe09287a7630/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/6ac4cc56-b821-4dea-bf4c-87605bb180d0/favicon-transparent-398e2640-ebf2-430f-bcfd-fe09287a7630/logo-logo.png": {
+        "sessionId": "6ac4cc56-b821-4dea-bf4c-87605bb180d0",
+        "logoId": "398e2640-ebf2-430f-bcfd-fe09287a7630",
+        "groupId": "c7b47a00-9771-4daf-9ac9-594ea92c398e"
+      }
+    },
+    "logoGroupId": "c7b47a00-9771-4daf-9ac9-594ea92c398e",
+    "solidUrlMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/6ac4cc56-b821-4dea-bf4c-87605bb180d0/favicon-transparent-398e2640-ebf2-430f-bcfd-fe09287a7630/logo-logo.png": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/6ac4cc56-b821-4dea-bf4c-87605bb180d0/favicon-original-398e2640-ebf2-430f-bcfd-fe09287a7630/logo-logo.png"
+    },
+    "userModified": false,
+    "createdAt": "2026-09-09T08:47:01.622Z",
+    "lastUpdated": "2026-09-09T08:47:27.119Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#0a0a0a",
+    "darkSurfaceUrl": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/6ac4cc56-b821-4dea-bf4c-87605bb180d0/favicon-transparent-398e2640-ebf2-430f-bcfd-fe09287a7630/logo-logo.png"
+  }
+}

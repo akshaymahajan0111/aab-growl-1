@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "tagline": "Move. Breathe. Transform.",
+    "headline": "SATYA YOGA",
+    "subheadline": "Where athletic performance meets mindful practice — rooted in India, built for today.",
+    "cta": "Book a Class",
+    "ctaHref": "/classes",
+    "secondaryCta": "View Schedule",
+    "secondaryCtaHref": "/classes"
+  },
+  "scheduleTeaser": [
+    { "id": "st1", "day": "Mon – Fri", "time": "6:00 AM · 12:00 PM · 6:30 PM" },
+    { "id": "st2", "day": "Saturday", "time": "7:00 AM · 9:30 AM" },
+    { "id": "st3", "day": "Sunday", "time": "8:00 AM · Restorative" }
+  ],
+  "classes": [
+    { "id": "c1", "name": "Power Yoga", "level": "Advanced", "duration": "60 min", "description": "Build strength and endurance through dynamic, challenging sequences.", "image": "/airo-assets/images/pages/home/class-power-yoga" },
+    { "id": "c2", "name": "Vinyasa Flow", "level": "All Levels", "duration": "75 min", "description": "Fluid movement synchronized with breath — energizing and meditative.", "image": "/airo-assets/images/pages/home/class-vinyasa" },
+    { "id": "c3", "name": "Restorative", "level": "Beginner", "duration": "60 min", "description": "Deep rest and recovery. Supported poses held for full release.", "image": "/airo-assets/images/pages/home/class-restorative" },
+    { "id": "c4", "name": "Hot Yoga", "level": "Intermediate", "duration": "90 min", "description": "Intense practice in a heated room. Detoxify, strengthen, and sweat.", "image": "/airo-assets/images/pages/home/class-hot-yoga" }
+  ],
+  "whySatya": {
+    "quote": "\"Satya means truth. Every class is an invitation to move honestly.\"",
+    "stat": "2,400+",
+    "statLabel": "Students trained across India",
+    "benefits": [
+      { "id": "b1", "text": "Expert instructors with 200–500hr RYT certifications" },
+      { "id": "b2", "text": "Small class sizes for personal attention" },
+      { "id": "b3", "text": "Heated and non-heated studio options" },
+      { "id": "b4", "text": "Flexible scheduling — morning, midday, evening" }
+    ]
+  },
+  "instructors": [
+    { "id": "i1", "name": "Priya Sharma", "specialty": "Power Yoga & Vinyasa", "bio": "10 years teaching, 500hr RYT certified. Based in Mumbai.", "image": "/airo-assets/images/pages/home/instructor-1" },
+    { "id": "i2", "name": "Arjun Mehta", "specialty": "Hot Yoga & Breathwork", "bio": "Former national-level athlete turned yoga coach. 8 years experience.", "image": "/airo-assets/images/pages/home/instructor-2" },
+    { "id": "i3", "name": "Kavya Nair", "specialty": "Restorative & Meditation", "bio": "Trauma-informed practitioner trained in Mysore. 200hr RYT.", "image": "/airo-assets/images/pages/home/instructor-3" }
+  ],
+  "cta": {
+    "headline": "Ready to start your practice?",
+    "subheadline": "Join thousands of students across India who've found their flow at Satya Yoga.",
+    "button": "Book Your First Class",
+    "buttonHref": "/classes"
+  }
+}
